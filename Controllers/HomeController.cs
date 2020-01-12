@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using mvc_C_.Models;
+using Galaxy.IO.Models;
 
-namespace mvc_C_.Controllers
+namespace Galaxy.IO.Controllers
 {
     public class HomeController : Controller
     {
@@ -17,8 +17,13 @@ namespace mvc_C_.Controllers
         {
             _logger = logger;
         }
-        public IActionResult Resume() {return View();}
+
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Resume()
         {
             return View();
         }

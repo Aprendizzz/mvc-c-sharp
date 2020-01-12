@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\Desktop\\mvc-C#\\mvc-C#.csproj",
-      "projectName": "mvc-C#",
-      "projectPath": "C:\\Users\\jonat\\Desktop\\mvc-C#\\mvc-C#.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Desktop\\mvc-C#\\Galaxy.IO.csproj",
+      "projectName": "Galaxy.IO",
+      "projectPath": "C:\\Users\\jonat\\Desktop\\mvc-C#\\Galaxy.IO.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jonat\\Desktop\\mvc-C#\\obj\\",
       "projectStyle": "PackageReference",

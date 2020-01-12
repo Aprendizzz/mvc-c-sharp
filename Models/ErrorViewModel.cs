@@ -1,6 +1,6 @@
 using System;
 
-namespace mvc_C_.Models
+namespace Galaxy.IO.Models
 {
     public class ErrorViewModel
     {
