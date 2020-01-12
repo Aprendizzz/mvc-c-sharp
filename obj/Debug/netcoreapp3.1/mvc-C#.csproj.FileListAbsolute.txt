@@ -21,7 +21,6 @@ c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\mvc-C#.TagHelpers.input.ca
 c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\mvc-C#.TagHelpers.output.cache
 c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\mvc-C#.RazorCoreGenerate.cache
 c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -33,3 +32,5 @@ c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\mvc-C#.Views.pdb
 c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\mvc-C#.dll
 c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\mvc-C#.pdb
 C:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\mvc-C#.csproj.CopyComplete
+c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\Razor\Views\Home\Developers.cshtml.g.cs
+c:\Users\jonat\Desktop\mvc-C#\obj\Debug\netcoreapp3.1\Razor\Views\Home\Resume.cshtml.g.cs

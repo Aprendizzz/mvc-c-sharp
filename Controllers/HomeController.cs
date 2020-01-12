@@ -17,13 +17,13 @@ namespace mvc_C_.Controllers
         {
             _logger = logger;
         }
-
+        public IActionResult Resume() {return View();}
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Developers()
         {
             return View();
         }
